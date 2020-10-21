@@ -1,0 +1,26 @@
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Form1.resources
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Properties.Resources.resources
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csproj.GenerateResource.Cache
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.exe
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.pdb
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.exe
+c:\users\omoit_000\documents\visual studio 2010\Projects\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.pdb
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.exe
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.pdb
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.exe
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.pdb
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Form1.resources
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Properties.Resources.resources
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csproj.GenerateResource.Cache
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csprojResolveAssemblyReference.cache
+C:\Users\omoit_000\Desktop\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Form2.resources
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.exe
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.pdb
+D:\project\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.exe
+D:\project\DeskTopMascot\DeskTopMascot\bin\Debug\DeskTopMascot.pdb
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Form1.resources
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Form2.resources
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.Properties.Resources.resources
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csproj.GenerateResource.Cache
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csprojAssemblyReference.cache
+D:\project\DeskTopMascot\DeskTopMascot\obj\x86\Debug\DeskTopMascot.csproj.CoreCompileInputs.cache
